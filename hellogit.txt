@@ -1,5 +1,9 @@
 hello , how are you?
 
 i am fine.
+<<<<<<< HEAD
 
 how do you do?
+=======
+me too.
+>>>>>>> feature
